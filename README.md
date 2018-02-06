@@ -9,4 +9,8 @@ Updating README.md file in the branch
 
 Master branch
 
+<<<<<<< HEAD
 Updating upadate-readme
+=======
+update-readme
+>>>>>>> a4959dbdfbbd23d02091e92382733f384c7096ff
