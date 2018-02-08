@@ -6,7 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 
 #Mac OS temp files
-.DS_Store 
+.DS_Store
+haha 
 
 # Runtime data
 pids
